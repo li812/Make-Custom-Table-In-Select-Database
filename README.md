@@ -1,5 +1,5 @@
-# Make-Custom-Table-In-Select-Database
-Make Custom Table In Selected Database
+# Make-Custom-MySql-Table-In-Select-Database
+Make Custom MySQL Table In Selected Database
 Python program to create table on select mysql database. Python needs a MySQL driver to access the MySQL database. I recommend that you use PIP to install "MySQL Connector". PIP is most likely already installed in your Python environment. If not install pip from https://pypi.org/project/pip/ To install "MySQL Connector" run this command :
 >> pip install mysql-connector-python
 >> 
